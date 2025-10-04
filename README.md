@@ -5,7 +5,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![GitHub stars](https://img.shields.io/github/stars/KardeniaPoyu/YOLOv8_MAH?style=social)
 
-**YOLOv8-MAH: Vehicle Detection with Mosaic Augmentation, Attention Mechanism & Heatmap Interpretability**
+**YOLOv8_MAH: Vehicle Detection with Mosaic Augmentation, Attention Mechanism & Heatmap Interpretability**
 
 ---
 
