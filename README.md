@@ -1,2 +1,5 @@
 # YoloV8_MAH
-A vehicle detection method
+YOLOv8-MAH: A Vehicle Detection Method Based on Mosaic Augmentation, Attention Mechanism, and Heatmap-based Interpretability
+
+ABSTRACT—This paper proposes an improved vehicle detection model, YOLOv8-MAH, which integrates adaptive Mosaic augmentation, an attention-guided feature enhancement module, and a heatmap-based interpretability mechanism. We conducted comparative experiments on YOLOv5, YOLOv8, YOLOv9, YOLOv10, YOLOv11, and the improved YOLOv8-MAH model. The results show that YOLOv8-MAH achieved overall performance of mAP50 = 0.92932, mAP50-95 = 0.71775, and Recall = 0.89767, while maintaining relatively low training and validation losses. Compared with the baseline models, YOLOv8-MAH demonstrates significant improvements in detection accuracy, robustness, and interpretability, providing an effective solution for practical applications in intelligent transportation systems.
+Key Word：YOLOv8-MAH；vehicle detection；adaptive Mosaic augmentation；attention-guided feature enhancement
