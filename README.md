@@ -89,42 +89,6 @@ python visualize_heatmap.py --weights yolov8-mah.pt --image path/to/image
 ```
 
 ---
-
-## 📂 Project Structure
-
-```
-YOLOv8_MAH/
-├── data/                 # Dataset and configuration files
-├── models/               # Model architectures and pretrained weights
-├── utils/                # Utility scripts for augmentation & visualization
-├── train.py              # Training script
-├── detect.py             # Inference script
-├── visualize_heatmap.py  # Heatmap visualization
-├── docs/                 # Visualization images, GIFs, diagrams
-├── requirements.txt      # Python dependencies
-└── README.md             # This file
-```
-
----
-
-## 📷 Visualization
-
-**Example Detection Results**  
-![Vehicle Detection](docs/vehicle_example.jpg)
-
-**Heatmap Interpretability**  
-![Heatmap](docs/heatmap_example.jpg)
-
-**Training Curve GIF**  
-![Training GIF](docs/training_curve.gif)
-
-**Model Structure Diagram**  
-![YOLOv8-MAH Architecture](docs/model_structure.png)
-
-> Place your images/GIFs in `docs/` for proper rendering.
-
----
-
 ## 🛠 Installation
 
 ```bash
