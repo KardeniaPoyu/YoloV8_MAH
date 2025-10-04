@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.8+-blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.x-red)
 ![License](https://img.shields.io/badge/License-MIT-green)
-![GitHub stars](https://img.shields.io/github/stars/your-username/YOLOv8-MAH?style=social)
+![GitHub stars](https://img.shields.io/github/stars/KardeniaPoyu/YOLOv8-MAH?style=social)
 
 **YOLOv8-MAH: Vehicle Detection with Mosaic Augmentation, Attention Mechanism & Heatmap Interpretability**
 
