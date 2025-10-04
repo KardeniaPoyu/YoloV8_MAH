@@ -15,8 +15,6 @@
 - [🚀 Features](#-features)
 - [📊 Performance](#-performance)
 - [📈 Usage](#-usage)
-- [📂 Project Structure](#-project-structure)
-- [📷 Visualization](#-visualization)
 - [🛠 Installation](#-installation)
 - [📜 License](#-license)
 - [🙌 Acknowledgments](#-acknowledgments)
