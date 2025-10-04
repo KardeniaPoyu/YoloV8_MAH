@@ -64,7 +64,7 @@ Comparative experiments with **YOLOv5–YOLOv11** show:
 | YOLOv10     | 0.90593 | 0.68250   | 0.89035   | 0.84204 | 1.34783    | 2.00352 |
 | **YOLOv8_MAH** | 0.92932 | 0.71775   | 0.89915   | 0.89767 | 0.67916    | 0.94080 |
 
-By comparing the results of different YOLO models, it is observed that **YOLOv8_MAH** achieves the best detection accuracy and robustness. The training dynamics, including loss convergence and evaluation metrics over epochs, are visualized in the `docs/training_curve.gif`.
+By comparing the results of different YOLO models, it is observed that **YOLOv8_MAH** achieves the best detection accuracy and robustness. 
 
 ---
 
