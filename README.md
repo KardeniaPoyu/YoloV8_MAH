@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.8+-blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.x-red)
 ![License](https://img.shields.io/badge/License-MIT-green)
-![GitHub stars](https://img.shields.io/github/stars/KardeniaPoyu/YOLOv8-MAH?style=social)
+![GitHub stars](https://img.shields.io/github/stars/KardeniaPoyu/YOLOv8_MAH?style=social)
 
 **YOLOv8-MAH: Vehicle Detection with Mosaic Augmentation, Attention Mechanism & Heatmap Interpretability**
 
@@ -26,7 +26,7 @@
 
 ## 📖 Abstract
 
-**YOLOv8-MAH** enhances YOLOv8 with:
+**YOLOv8_MAH** enhances YOLOv8 with:
 
 - **Adaptive Mosaic Augmentation** – improves training data diversity.  
 - **Attention-Guided Feature Enhancement Module** – boosts feature extraction for better detection.  
@@ -38,9 +38,9 @@ Comparative experiments with **YOLOv5–YOLOv11** show:
 - **mAP50-95:** 0.71775  
 - **Precision:** 0.89915  
 
-> YOLOv8-MAH achieves superior accuracy, robustness, and interpretability for intelligent transportation systems.
+> YOLOv8_MAH achieves superior accuracy, robustness, and interpretability for intelligent transportation systems.
 
-**Keywords:** YOLOv8-MAH, Vehicle Detection, Mosaic Augmentation, Attention, Heatmap Interpretability
+**Keywords:** YOLOv8_MAH, Vehicle Detection, Mosaic Augmentation, Attention, Heatmap Interpretability
 
 ---
 
@@ -62,9 +62,9 @@ Comparative experiments with **YOLOv5–YOLOv11** show:
 | YOLOv11     | 0.92347 | 0.60071   | 0.91603   | 0.87700 | 0.89455    | 1.37169 |
 | YOLOv9      | 0.92220 | 0.70664   | 0.91491   | 0.87710 | 0.62963    | 0.97373 |
 | YOLOv10     | 0.90593 | 0.68250   | 0.89035   | 0.84204 | 1.34783    | 2.00352 |
-| **YOLOv8-MAH** | 0.92932 | 0.71775   | 0.89915   | 0.89767 | 0.67916    | 0.94080 |
+| **YOLOv8_MAH** | 0.92932 | 0.71775   | 0.89915   | 0.89767 | 0.67916    | 0.94080 |
 
-By comparing the results of different YOLO models, it is observed that **YOLOv8-MAH** achieves the best detection accuracy and robustness. The training dynamics, including loss convergence and evaluation metrics over epochs, are visualized in the `docs/training_curve.gif`.
+By comparing the results of different YOLO models, it is observed that **YOLOv8_MAH** achieves the best detection accuracy and robustness. The training dynamics, including loss convergence and evaluation metrics over epochs, are visualized in the `docs/training_curve.gif`.
 
 ---
 
@@ -93,7 +93,7 @@ python visualize_heatmap.py --weights yolov8-mah.pt --image path/to/image
 ## 📂 Project Structure
 
 ```
-YOLOv8-MAH/
+YOLOv8_MAH/
 ├── data/                 # Dataset and configuration files
 ├── models/               # Model architectures and pretrained weights
 ├── utils/                # Utility scripts for augmentation & visualization
@@ -128,8 +128,8 @@ YOLOv8-MAH/
 ## 🛠 Installation
 
 ```bash
-git clone https://github.com/KardeniaPoyu/YOLOv8-MAH.git
-cd YOLOv8-MAH
+git clone https://github.com/KardeniaPoyu/YOLOv8_MAH.git
+cd YOLOv8_MAH
 pip install -r requirements.txt
 ```
 
