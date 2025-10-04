@@ -1,4 +1,4 @@
-# YOLOv8-MAH
+# YOLOv8_MAH
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.x-red)
